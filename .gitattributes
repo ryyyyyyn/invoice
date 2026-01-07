@@ -1,1 +1,31 @@
-* text=auto eol=lf
+* text=auto
+
+# Shell and scripts
+*.sh text eol=lf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Source files
+*.dart text eol=lf
+*.kt text eol=lf
+*.kts text eol=lf
+*.java text eol=lf
+*.swift text eol=lf
+*.m text eol=lf
+*.mm text eol=lf
+*.cc text eol=lf
+*.cpp text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+
+# Config and docs
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.xml text eol=lf
+*.gradle text eol=lf
+*.properties text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
